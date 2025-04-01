@@ -1,3 +1,7 @@
+<p align="center">
+  <s><strong><em>♡ Check your reddit DMs Dollie ♡</em></strong></s>
+</p>
+
 <div align="center">
   <hr>
   
