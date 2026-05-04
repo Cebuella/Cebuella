@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+  <hr>
 
-<!--
-**Cebuella/Cebuella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h2>
+    Synthetic Experimentalist & Playlist Curator
+  </h2>
+  <br>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=shuntlike&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=shuntlike&cover_image=true&theme=default&show_offline=true&background_color=1a1a1a&interchange=true&bar_color=ffffff&bar_color_cover=false">
+  </a>
+  
+  <hr>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br>
+<br><br><br>
+<br><br>
+<br>
